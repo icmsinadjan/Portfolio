@@ -1,0 +1,66 @@
+body{
+    font-family: Roboto, sans-serif;
+    margin: 0 auto;
+  }
+  
+
+#wrapper{
+    background-image: linear-gradient(to bottom right, teal, lightcoral, darkslategray);
+}
+
+#heading{
+    padding: 5px;
+    color: Black;
+    height: 200px;
+}
+
+#about{
+    margin: 0 auto;
+    padding: 5px;
+    width: 90%;
+}
+
+#abt-me-text{
+    padding: 5px;
+    background: inherit;
+    text-align: justify;
+
+}
+
+#projects{
+    margin: 0 auto;
+    width: 90%;
+    background-image: linear-gradient(to bottom right, darkslategray, lightcoral, teal);
+    
+}
+
+#proj-imgs{
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+    background-image: linear-gradient(to bottom left, darkslategray, lightcoral, teal);   
+}
+#educ{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-image: linear-gradient(to bottom right, darkslategray, lightcoral, teal);
+    border: 2px black;
+    }
+#cert{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: justify;  
+}
+
+#footer{
+    margin: 0 auto;
+    height: auto;
+    width: 50%;
+    text-align: center;
+    color: #f9d18f;
+    border: 2px solid #001a1a;
+}
